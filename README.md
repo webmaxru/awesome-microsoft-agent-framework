@@ -151,6 +151,10 @@ dotnet add package Microsoft.Agents.AI
 - [OpenTelemetry Integration](https://github.com/microsoft/agent-framework/blob/main/dotnet/samples/GettingStarted/AgentOpenTelemetry) - Telemetry and monitoring
 - [Middleware Examples](https://github.com/microsoft/agent-framework/blob/main/dotnet/samples/GettingStarted/Agents/Agent_Step14_Middleware) - Custom middleware
 
+### Community Examples
+
+- [PrivyDoc](https://github.com/ShivamGoyal03/PrivyDoc) - Local document intelligence tool powered by Foundry Local for secure, on-device document analysis
+
 ## 🛠️ Tools & Frameworks
 
 ### Development Tools
