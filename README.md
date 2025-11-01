@@ -106,9 +106,11 @@ dotnet add package Microsoft.Agents.AI
 
 - [Agent Framework Demos Day 1: Intercepting Function Calls](https://www.linkedin.com/pulse/agent-framework-demos-day-1-intercepting-function-calls-dibia-phd-sbuqc) - Practical guide to intercepting and handling function calls in Microsoft Agent Framework
 - [Agent Framework Deep Dive](https://github.com/fabianwilliams/agentframeworkdeepdive) - Deep dive tutorial and comprehensive guide to Microsoft Agent Framework
+- [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-framework/4463159) - Step-by-step guide for building and deploying long-running AI agents on Azure App Service
+- [From ChatGPT to Codex: How I Built an Agent Framework Lab That Talks to OpenAI and Ollama](https://www.linkedin.com/pulse/from-chatgpt-codex-how-i-built-agent-framework-lab-talks-williams--vspze/) - Tutorial by Fabian Williams on building an Agent Framework lab with OpenAI and Ollama integration
 - [Generative AI Notebooks](https://github.com/arafattehsin/generative-ai/tree/main/notebooks/agent-framework) - Collection of Jupyter notebooks demonstrating Microsoft Agent Framework concepts and implementations
 - [M365 Graph DevUI Walkthrough](https://github.com/fabianwilliams/agent-framework/blob/m365agentsdevui/python/packages/devui/samples/m365_graph_devui/DEVUI_WALKTHROUGH.md) - Step-by-step walkthrough for using DevUI with Microsoft 365 Graph integration
-- [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-framework/4463159) - Step-by-step guide for building and deploying long-running AI agents on Azure App Service
+- [Microsoft Agent Framework Python Auth0 Token Vault](https://auth0.com/blog/microsoft-agent-framework-python-auth0-token-vault/) - Guide on integrating Auth0 Token Vault with Microsoft Agent Framework in Python
 - [Part 2: Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/part-2-build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-fr/4465825) - Continuation of the practical guide for deploying long-running AI agents on Azure App Service
 
 ## 🏢 Enterprise & Production
