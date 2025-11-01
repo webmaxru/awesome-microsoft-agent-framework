@@ -108,6 +108,8 @@ dotnet add package Microsoft.Agents.AI
 - [Agent Framework Deep Dive](https://github.com/fabianwilliams/agentframeworkdeepdive) - Deep dive tutorial and comprehensive guide to Microsoft Agent Framework
 - [Generative AI Notebooks](https://github.com/arafattehsin/generative-ai/tree/main/notebooks/agent-framework) - Collection of Jupyter notebooks demonstrating Microsoft Agent Framework concepts and implementations
 - [M365 Graph DevUI Walkthrough](https://github.com/fabianwilliams/agent-framework/blob/m365agentsdevui/python/packages/devui/samples/m365_graph_devui/DEVUI_WALKTHROUGH.md) - Step-by-step walkthrough for using DevUI with Microsoft 365 Graph integration
+- [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-framework/4463159) - Step-by-step guide for building and deploying long-running AI agents on Azure App Service
+- [Part 2: Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/part-2-build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-fr/4465825) - Continuation of the practical guide for deploying long-running AI agents on Azure App Service
 
 ## 🏢 Enterprise & Production
 
