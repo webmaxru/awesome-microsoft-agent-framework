@@ -113,6 +113,7 @@ dotnet add package Microsoft.Agents.AI
 - [Taking Multi-Model AI Orchestration Further: Azure AI Foundry Persistent Agents in .NET 9](https://elbruno.com/2025/10/16/%f0%9f%a7%a0-taking-multi-model-ai-orchestration-further-azure-ai-foundry-persistent-agents-in-net-9/) - Advanced tutorial on implementing persistent agents with Azure AI Foundry and Microsoft Agent Framework in .NET 9
 - [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-framework/4463159) - Step-by-step guide for building and deploying long-running AI agents on Azure App Service
 - [Part 2: Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/part-2-build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-fr/4465825) - Continuation of the practical guide for deploying long-running AI agents on Azure App Service
+- [Multi-agent Workflow with Human Approval using Agent Framework](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/multi-agent-workflow-with-human-approval-using-agent-framework/4465927) - Tutorial on implementing multi-agent workflows with human-in-the-loop approval patterns using Microsoft Agent Framework
 
 ## 🏢 Enterprise & Production
 
