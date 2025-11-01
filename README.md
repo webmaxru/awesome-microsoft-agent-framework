@@ -129,6 +129,7 @@ dotnet add package Microsoft.Agents.AI
 
 ### Python Samples
 
+- [Agent Framework MS](https://github.com/aiwithsudheer/agent-framework-ms) - Microsoft Agent Framework samples and examples
 - [Getting Started with Agents](https://github.com/microsoft/agent-framework/blob/main/python/samples/getting_started/agents) - Basic agent creation and tool usage
 - [Getting Started with Workflows](https://github.com/microsoft/agent-framework/blob/main/python/samples/getting_started/workflows) - Basic workflow creation
 - [Chat Client Examples](https://github.com/microsoft/agent-framework/blob/main/python/samples/getting_started/chat_client) - Direct chat client usage patterns
