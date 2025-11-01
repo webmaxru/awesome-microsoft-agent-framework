@@ -129,7 +129,6 @@ dotnet add package Microsoft.Agents.AI
 
 ### Python Samples
 
-- [Agent Framework MS](https://github.com/aiwithsudheer/agent-framework-ms) - Microsoft Agent Framework samples and examples
 - [Getting Started with Agents](https://github.com/microsoft/agent-framework/blob/main/python/samples/getting_started/agents) - Basic agent creation and tool usage
 - [Getting Started with Workflows](https://github.com/microsoft/agent-framework/blob/main/python/samples/getting_started/workflows) - Basic workflow creation
 - [Chat Client Examples](https://github.com/microsoft/agent-framework/blob/main/python/samples/getting_started/chat_client) - Direct chat client usage patterns
@@ -154,6 +153,7 @@ dotnet add package Microsoft.Agents.AI
 
 ### Integration Options
 
+- [**Agent Framework MS**](https://github.com/aiwithsudheer/agent-framework-ms) - This project demonstrates how to extend the agent-framework by creating a custom chat client for Google's Gemini large language models
 - [**Model Context Protocol (MCP)**](https://learn.microsoft.com/en-us/agent-framework/user-guide/model-context-protocol/?pivots=programming-language-csharp) - Connect to external tools and data servers
 - [**Agent as MCP Server**](https://github.com/chanirban/agent-as-mcp-server-MAF) - Example of exposing an agent as an MCP server using Microsoft Agent Framework with STDIO transport
 - [**Agent-to-Agent (A2A)**](https://learn.microsoft.com/en-us/agent-framework/user-guide/agents/agent-types/a2a-agent?pivots=programming-language-csharp) - Cross-runtime agent collaboration
