@@ -87,8 +87,6 @@ dotnet add package Microsoft.Agents.AI
 - [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) - Azure AI + machine learning Blog
 - [Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/) - Azure AI Foundry Blog
 - [Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/) - .NET Blog announcement
-- [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-framework/4463159) - Apps on Azure Blog
-- [Part 2: Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/part-2-build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-fr/4465825) - Apps on Azure Blog
 
 ### Community Blogs
 
@@ -109,6 +107,8 @@ dotnet add package Microsoft.Agents.AI
 - [Agent Framework Deep Dive](https://github.com/fabianwilliams/agentframeworkdeepdive) - Deep dive tutorial and comprehensive guide to Microsoft Agent Framework
 - [Generative AI Notebooks](https://github.com/arafattehsin/generative-ai/tree/main/notebooks/agent-framework) - Collection of Jupyter notebooks demonstrating Microsoft Agent Framework concepts and implementations
 - [M365 Graph DevUI Walkthrough](https://github.com/fabianwilliams/agent-framework/blob/m365agentsdevui/python/packages/devui/samples/m365_graph_devui/DEVUI_WALKTHROUGH.md) - Step-by-step walkthrough for using DevUI with Microsoft 365 Graph integration
+- [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-framework/4463159) - Step-by-step guide for building and deploying long-running AI agents on Azure App Service
+- [Part 2: Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/part-2-build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-fr/4465825) - Continuation of the practical guide for deploying long-running AI agents on Azure App Service
 
 ## 🏢 Enterprise & Production
 
