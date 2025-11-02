@@ -153,7 +153,8 @@ dotnet add package Microsoft.Agents.AI
 
 ### Community Examples
 
-- [PrivyDoc](https://github.com/ShivamGoyal03/PrivyDoc) - Local document intelligence tool powered by Foundry Local for secure, on-device document analysis
+- [PrivyDoc](https://github.com/ShivamGoyal03/PrivyDoc) (Microsoft MVP) - Local document intelligence tool powered by Foundry Local for secure, on-device document analysis
+- [AICalcX](https://github.com/ShivamGoyal03/AICalcX) (Microsoft MVP) - Real-time AI project cost estimation combining live Azure pricing, human resources, and autonomous agents for accurate enterprise TCO. (Experimental – see [BLOCKERS.md](https://github.com/ShivamGoyal03/AICalcX/blob/main/BLOCKERS.md))
 
 ## 🛠️ Tools & Frameworks
 
