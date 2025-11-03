@@ -10,12 +10,12 @@ Microsoft Agent Framework is an open-source development kit for building AI agen
 - [🚀 Getting Started](#-getting-started)
 - [📚 Official Documentation](#-official-documentation)
 - [🎥 Video Resources](#-video-resources)
-- [📖 Blog Posts & Articles](#-blog-posts--articles)
+- [📖 Blog Posts &amp; Articles](#-blog-posts--articles)
 - [🔧 Tutorials](#-tutorials)
-- [🏢 Enterprise & Production](#-enterprise--production)
-- [🧪 Examples & Samples](#-examples--samples)
-- [🛠️ Tools & Frameworks](#-tools--frameworks)
-- [📊 Monitoring & Observability](#-monitoring--observability)
+- [🏢 Enterprise &amp; Production](#-enterprise--production)
+- [🧪 Examples &amp; Samples](#-examples--samples)
+- [🛠️ Tools &amp; Frameworks](#-tools--frameworks)
+- [📊 Monitoring &amp; Observability](#-monitoring--observability)
 - [🔗 Related Technologies](#-related-technologies)
 - [👥 Community](#-community)
 
@@ -39,6 +39,7 @@ Microsoft Agent Framework is a comprehensive set of .NET and Python libraries th
 **Built on Proven Foundations:**
 
 Microsoft Agent Framework leverages established technologies:
+
 - **Semantic Kernel** – Provides robust orchestration
 - **AutoGen** – Enables advanced multi-agent collaboration and cutting-edge research-driven techniques
 - **Microsoft.Extensions.AI** – Delivers standardized AI building blocks for .NET
@@ -48,11 +49,13 @@ Microsoft Agent Framework leverages established technologies:
 ### Installation
 
 **Python:**
+
 ```bash
 pip install agent-framework --pre
 ```
 
 **C#/.NET:**
+
 ```bash
 dotnet add package Microsoft.Agents.AI
 ```
@@ -90,6 +93,7 @@ dotnet add package Microsoft.Agents.AI
 
 ### Community Blogs
 
+- [Microsoft Agent Framework: Why This Matters for the Future of Enterprise AI](https://www.linkedin.com/pulse/microsoft-agent-framework-why-matters-future-ai-muhammad-zubair-25j3f/) - Article by [Muhammad Zubair](https://www.linkedin.com/in/mzubair31102/)
 - [From ChatGPT to Codex: How I Built an Agent Framework Lab That Talks to OpenAI and Ollama](https://www.linkedin.com/pulse/from-chatgpt-codex-how-i-built-agent-framework-lab-talks-williams--vspze/) - Article by Fabian Williams
 - [Microsoft Agent Framework](https://www.linkedin.com/pulse/microsoft-agent-framework-bill-ayers-l1ype/) - Article by Bill Ayers
 - [Microsoft Agent Framework Python Auth0 Token Vault](https://auth0.com/blog/microsoft-agent-framework-python-auth0-token-vault/) - Guide on integrating Auth0 Token Vault with Microsoft Agent Framework in Python
@@ -240,6 +244,6 @@ Microsoft Agent Framework is licensed under the [MIT License](https://github.com
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
 trademarks or logos is subject to and must follow
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
+[Microsoft&#39;s Trademark &amp; Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
