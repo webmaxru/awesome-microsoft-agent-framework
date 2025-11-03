@@ -71,7 +71,7 @@ dotnet add package Microsoft.Agents.AI
 - [Official Documentation Hub](https://learn.microsoft.com/en-us/agent-framework/) - Complete documentation portal
 - [Microsoft Agent Framework Overview](https://aka.ms/AgentFramework/docs) - High-level overview and concepts
 - [Tutorials](https://learn.microsoft.com/agent-framework/tutorials/overview) - Step-by-step tutorials
-- User Guide - In-depth user guide for building agents and workflows
+- [User Guide](https://learn.microsoft.com/en-us/agent-framework/user-guide/overview) - In-depth user guide for building agents and workflows
 - [Migration from Semantic Kernel](https://learn.microsoft.com/en-us/agent-framework/migration-guide/from-semantic-kernel) - Guide to migrate from Semantic Kernel
 - [Migration from AutoGen](https://learn.microsoft.com/en-us/agent-framework/migration-guide/from-autogen) - Guide to migrate from AutoGen
 
