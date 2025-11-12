@@ -99,6 +99,7 @@ dotnet add package Microsoft.Agents.AI
 - [Microsoft Agent Framework Python Auth0 Token Vault](https://auth0.com/blog/microsoft-agent-framework-python-auth0-token-vault/) - Guide on integrating Auth0 Token Vault with Microsoft Agent Framework in Python
 - [Microsoft Agent Framework: First Look](https://jamiemaguire.net/index.php/2025/11/01/microsoft-agent-framework-first-look/) - Article by Jamie Maguire
 - [Microsoft Agent Framework: Conversations and Threads](https://jamiemaguire.net/index.php/2025/11/06/microsoft-agent-framework-conversations-and-threads/) - Article by Jamie Maguire
+- [Microsoft Agent Framework is now AG UI compatible](https://www.copilotkit.ai/blog/microsoft-agent-framework-is-now-ag-ui-compatible) - Blog post about AG UI compatibility with Microsoft Agent Framework
 - [My Take: Why Microsoft Agent Framework Matters](https://www.linkedin.com/pulse/my-take-why-microsoft-agent-framework-matters-edgar-mcochieng--7kh6f/) - Article by Edgar Mcochieng
 
 ### Key Concepts
