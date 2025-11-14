@@ -121,6 +121,7 @@ dotnet add package Microsoft.Agents.AI
 - [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-framework/4463159) - Step-by-step guide for building and deploying long-running AI agents on Azure App Service
 - [Part 2: Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/part-2-build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-fr/4465825) - Continuation of the practical guide for deploying long-running AI agents on Azure App Service
 - [Multi-agent Workflow with Human Approval using Agent Framework](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/multi-agent-workflow-with-human-approval-using-agent-framework/4465927) - Tutorial on implementing multi-agent workflows with human-in-the-loop approval patterns using Microsoft Agent Framework
+- [Bulletproof Agents with the Durable Task Extension for Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/bulletproof-agents-with-the-durable-task-extension-for-microsoft-agent-framework/4467122) - Tutorial on building bulletproof agents using the Durable Task Extension with Microsoft Agent Framework
 
 ## 🏢 Enterprise & Production
 
