@@ -82,6 +82,7 @@ dotnet add package Microsoft.Agents.AI
 - [Deep Dive into Microsoft Agent Framework for AutoGen Users](https://www.youtube.com/watch?v=JlzteydCK_Q) - Comprehensive walkthrough for developers migrating from AutoGen
 - [DevUI in Action (1 min)](https://www.youtube.com/watch?v=mOAaGY4WPvc) - Interactive developer UI demo
 - [Agent Framework Lab - The AI Show episode](https://www.youtube.com/watch?v=u1YOPRdGqxQ) - The Experimental Modules of Microsoft Agent Framework
+- [Microsoft Agent Framework Playlist](https://www.youtube.com/playlist?list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx) - YouTube playlist collection of Microsoft Agent Framework videos and tutorials
 
 ## 📖 Blog Posts & Articles
 
