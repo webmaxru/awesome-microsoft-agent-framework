@@ -101,6 +101,7 @@ dotnet add package Microsoft.Agents.AI
 - [Microsoft Agent Framework: First Look](https://jamiemaguire.net/index.php/2025/11/01/microsoft-agent-framework-first-look/) - Article by Jamie Maguire
 - [Microsoft Agent Framework: Conversations and Threads](https://jamiemaguire.net/index.php/2025/11/06/microsoft-agent-framework-conversations-and-threads/) - Article by Jamie Maguire
 - [Microsoft Agent Framework: Extending Agent Intelligence Using Function Tools](https://jamiemaguire.net/index.php/2025/11/15/microsoft-agent-framework-extending-agent-intelligence-using-function-tools/) - Article by Jamie Maguire
+- [Microsoft Agent Framework: Using Agents as Function Tools](https://jamiemaguire.net/index.php/2025/11/22/microsoft-agent-framework-using-agents-as-function-tools/) - Article by Jamie Maguire
 - [Microsoft Agent Framework is now AG UI compatible](https://www.copilotkit.ai/blog/microsoft-agent-framework-is-now-ag-ui-compatible) - Blog post about AG UI compatibility with Microsoft Agent Framework
 - [My Take: Why Microsoft Agent Framework Matters](https://www.linkedin.com/pulse/my-take-why-microsoft-agent-framework-matters-edgar-mcochieng--7kh6f/) - Article by Edgar Mcochieng
 
