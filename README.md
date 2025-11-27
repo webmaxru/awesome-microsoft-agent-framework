@@ -83,6 +83,7 @@ dotnet add package Microsoft.Agents.AI
 - [DevUI in Action (1 min)](https://www.youtube.com/watch?v=mOAaGY4WPvc) - Interactive developer UI demo
 - [Agent Framework Lab - The AI Show episode](https://www.youtube.com/watch?v=u1YOPRdGqxQ) - The Experimental Modules of Microsoft Agent Framework
 - [Microsoft Agent Framework Playlist](https://www.youtube.com/playlist?list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx) - YouTube playlist collection of Microsoft Agent Framework videos and tutorials
+- [End-to-End Example (Part 2: Deployment Options) - AI in C# (Microsoft Agent Framework)](https://www.youtube.com/watch?v=nVYCU1euYl0) - Demonstration of deploying an AI-powered backend using different deployment strategies with Microsoft Agent Framework by Rasmus Wulff Jensen
 
 ## 📖 Blog Posts & Articles
 
