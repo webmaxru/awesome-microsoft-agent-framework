@@ -92,6 +92,7 @@ dotnet add package Microsoft.Agents.AI
 - [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) - Azure AI + machine learning Blog
 - [Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/) - Azure AI Foundry Blog
 - [Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/) - .NET Blog announcement
+- [Migrate your Semantic Kernel and AutoGen projects to Microsoft Agent Framework Release Candidate](https://devblogs.microsoft.com/semantic-kernel/migrate-your-semantic-kernel-and-autogen-projects-to-microsoft-agent-framework-release-candidate/) - Semantic Kernel Blog - migration guide for transitioning projects to the release candidate
 - [Build AI agents with GitHub Copilot SDK and Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-github-copilot-sdk-and-microsoft-agent-framework/) - Semantic Kernel Blog
 
 ### Community Blogs
