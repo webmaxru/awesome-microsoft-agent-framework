@@ -94,6 +94,7 @@ dotnet add package Microsoft.Agents.AI
 - [Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/) - .NET Blog announcement
 - [Migrate your Semantic Kernel and AutoGen projects to Microsoft Agent Framework Release Candidate](https://devblogs.microsoft.com/semantic-kernel/migrate-your-semantic-kernel-and-autogen-projects-to-microsoft-agent-framework-release-candidate/) - Semantic Kernel Blog - migration guide for transitioning projects to the release candidate
 - [Build AI agents with GitHub Copilot SDK and Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-github-copilot-sdk-and-microsoft-agent-framework/) - Semantic Kernel Blog
+- [Give Your Agents Domain Expertise with Agent Skills in Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/give-your-agents-domain-expertise-with-agent-skills-in-microsoft-agent-framework/) - Semantic Kernel Blog - introducing Agent Skills for packaging domain expertise as reusable, portable skill modules
 
 ### Community Blogs
 
@@ -107,6 +108,8 @@ dotnet add package Microsoft.Agents.AI
 - [Microsoft Agent Framework: Using Agents as Function Tools](https://jamiemaguire.net/index.php/2025/11/22/microsoft-agent-framework-using-agents-as-function-tools/) - Article by Jamie Maguire
 - [Microsoft Agent Framework is now AG UI compatible](https://www.copilotkit.ai/blog/microsoft-agent-framework-is-now-ag-ui-compatible) - Blog post about AG UI compatibility with Microsoft Agent Framework
 - [My Take: Why Microsoft Agent Framework Matters](https://www.linkedin.com/pulse/my-take-why-microsoft-agent-framework-matters-edgar-mcochieng--7kh6f/) - Article by Edgar Mcochieng
+- [Give Your Agents New Capabilities and Expertise Using Skills with Microsoft Agent Framework](https://arafattehsin.com/blog/give-your-agents-new-capabilities-skills-microsoft-agent-framework/) - Practical guide on implementing Agent Skills by Arafat Tehsin
+- [Microsoft Agent Framework - Agent Skills](https://ravichaganti.com/blog/microsoft-agent-framework-agent-skills/) - Overview and walkthrough of Agent Skills by Ravikanth Chaganti
 
 ### Key Concepts
 
@@ -177,6 +180,7 @@ dotnet add package Microsoft.Agents.AI
 - [**DevUI**](https://github.com/microsoft/agent-framework/tree/main/python/packages/devui) - Interactive developer UI for agent development, testing, and debugging workflows
 - [**VS Code AI Toolkit**](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) - Streamlined experience for building with Microsoft Agent Framework
 - [**AF Labs**](https://github.com/microsoft/agent-framework/tree/main/python/packages/lab) - Experimental packages for cutting-edge features including benchmarking and reinforcement learning
+- [**Agent Skills Repository**](https://github.com/microsoft/skills) - Official repository of ready-made skills, MCP servers, custom agents, and reusable agent components
 
 ### Integration Options
 
