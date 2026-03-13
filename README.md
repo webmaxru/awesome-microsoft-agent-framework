@@ -95,6 +95,8 @@ dotnet add package Microsoft.Agents.AI
 - [Migrate your Semantic Kernel and AutoGen projects to Microsoft Agent Framework Release Candidate](https://devblogs.microsoft.com/semantic-kernel/migrate-your-semantic-kernel-and-autogen-projects-to-microsoft-agent-framework-release-candidate/) - Semantic Kernel Blog - migration guide for transitioning projects to the release candidate
 - [Build AI agents with GitHub Copilot SDK and Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-github-copilot-sdk-and-microsoft-agent-framework/) - Semantic Kernel Blog
 - [Give Your Agents Domain Expertise with Agent Skills in Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/give-your-agents-domain-expertise-with-agent-skills-in-microsoft-agent-framework/) - Semantic Kernel Blog - introducing Agent Skills for packaging domain expertise as reusable, portable skill modules
+- [Agent Harness in Agent Framework](https://devblogs.microsoft.com/agent-framework/agent-harness-in-agent-framework/) - Agent Framework Blog - overview of the Agent Harness feature in Microsoft Agent Framework
+- [What's New in Agent Skills: Code Skills, Script Execution, and Approval for Python](https://devblogs.microsoft.com/agent-framework/whats-new-in-agent-skills-code-skills-script-execution-and-approval-for-python/) - Agent Framework Blog - new Agent Skills capabilities including code skills, script execution, and approval workflows for Python
 
 ### Community Blogs
 
