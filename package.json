@@ -1,24 +1,9 @@
 {
-  "name": "awesome-microsoft-agent-framework",
-  "version": "1.0.0",
-  "description": "> Open-source development kit for building AI agents and multi-agent workflows for .NET and Python.",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "awesome-lint"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/webmaxru/awesome-microsoft-agent-framework.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/webmaxru/awesome-microsoft-agent-framework/issues"
-  },
-  "homepage": "https://github.com/webmaxru/awesome-microsoft-agent-framework#readme",
-  "dependencies": {
+  "devDependencies": {
     "awesome-lint": "^2.2.3"
   }
 }
