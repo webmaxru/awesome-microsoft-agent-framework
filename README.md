@@ -1,5 +1,9 @@
 # Awesome Microsoft Agent Framework [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+<p align="center">
+	<a href="https://github.com/microsoft/agent-framework"><img width="554" src="https://raw.githubusercontent.com/microsoft/agent-framework/main/docs/assets/readme-banner.png" alt="Microsoft Agent Framework"></a>
+</p>
+
 > Open-source development kit for building AI agents and multi-agent workflows for .NET and Python.
 
 ## Contents
