@@ -1,0 +1,92 @@
+{
+  "name": "unified-message-control",
+  "version": "5.0.0",
+  "description": "Enable, disable, and ignore messages from unified processors",
+  "license": "MIT",
+  "keywords": [
+    "comment",
+    "control",
+    "marker",
+    "message",
+    "unified",
+    "unified-plugin"
+  ],
+  "repository": "unifiedjs/unified-message-control",
+  "bugs": "https://github.com/unifiedjs/unified-message-control/issues",
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/unified"
+  },
+  "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+  "contributors": [
+    "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+    "Christian Murphy <christian.murphy.42@gmail.com> (https://github.com/ChristianMurphy)",
+    "Thomas 'zemnmez' Shadwell (https://github.com/zemnmez)"
+  ],
+  "sideEffects": false,
+  "type": "module",
+  "exports": "./index.js",
+  "files": [
+    "lib/",
+    "index.d.ts",
+    "index.js"
+  ],
+  "dependencies": {
+    "@types/unist": "^3.0.0",
+    "devlop": "^1.0.0",
+    "space-separated-tokens": "^2.0.0",
+    "unist-util-is": "^6.0.0",
+    "unist-util-visit": "^5.0.0",
+    "vfile": "^6.0.0",
+    "vfile-location": "^5.0.0",
+    "vfile-message": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/mdast": "^4.0.0",
+    "@types/node": "^20.0.0",
+    "c8": "^8.0.0",
+    "mdast-comment-marker": "^3.0.0",
+    "prettier": "^3.0.0",
+    "remark": "^14.0.0",
+    "remark-cli": "^11.0.0",
+    "remark-preset-wooorm": "^9.0.0",
+    "remark-toc": "^8.0.0",
+    "type-coverage": "^2.0.0",
+    "typescript": "^5.0.0",
+    "unified": "^11.0.0",
+    "xo": "^0.56.0"
+  },
+  "scripts": {
+    "build": "tsc --build --clean && tsc --build && type-coverage",
+    "format": "remark . --frail --output --quiet && prettier . --log-level warn --write && xo --fix",
+    "prepack": "npm run build && npm run format",
+    "test": "npm run build && npm run format && npm run test-coverage",
+    "test-api": "node --conditions development test.js",
+    "test-coverage": "c8 --100 --check-coverage --reporter lcov npm run test-api"
+  },
+  "prettier": {
+    "bracketSpacing": false,
+    "singleQuote": true,
+    "semi": false,
+    "tabWidth": 2,
+    "trailingComma": "none",
+    "useTabs": false
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-wooorm"
+    ]
+  },
+  "typeCoverage": {
+    "atLeast": 100,
+    "detail": true,
+    "ignoreCatch": true,
+    "strict": true
+  },
+  "xo": {
+    "prettier": true,
+    "rules": {
+      "unicorn/prefer-at": "off"
+    }
+  }
+}

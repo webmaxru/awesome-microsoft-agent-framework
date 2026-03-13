@@ -1,0 +1,39 @@
+{
+  "name": "glob-option-error",
+  "version": "1.0.0",
+  "description": "Create an error from the result of validate-glob-opts",
+  "repository": "shinnn/glob-option-error",
+  "author": "Shinnosuke Watanabe (https://github.com/shinnn)",
+  "scripts": {
+    "pretest": "eslint --fix --format=codeframe index.js test.js",
+    "test": "node --throw-deprecation test.js",
+    "coverage": "istanbul cover --print=both test.js"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "glob",
+    "option",
+    "options",
+    "validate",
+    "validation",
+    "invalidate",
+    "check",
+    "type",
+    "error",
+    "strict"
+  ],
+  "devDependencies": {
+    "@shinnn/eslint-config-node": "^3.0.0",
+    "eslint": "^3.16.0",
+    "graceful-fs": "^4.1.11",
+    "istanbul": "^0.4.5",
+    "tape": "^4.6.3",
+    "validate-glob-opts": "^0.4.0"
+  },
+  "eslintConfig": {
+    "extends": "@shinnn/node"
+  }
+}
