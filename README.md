@@ -51,7 +51,7 @@ dotnet add package Microsoft.Agents.AI
 - [AI Show Episodes](https://aka.ms/AgentFramework/AIShow) - Microsoft AI Show coverage.
 - [Deep Dive into Microsoft Agent Framework for AutoGen Users](https://www.youtube.com/watch?v=JlzteydCK_Q) - Comprehensive walkthrough for developers migrating from AutoGen.
 - [DevUI in Action (1 min)](https://www.youtube.com/watch?v=mOAaGY4WPvc) - Interactive developer UI demo.
-- [Agent Framework Lab - The AI Show Episode](https://www.youtube.com/watch?v=u1YOPRdGqxQ) - The experimental modules of Microsoft Agent Framework.
+- [Agent Framework Lab - The AI Show episode](https://www.youtube.com/watch?v=u1YOPRdGqxQ) - The experimental modules of Microsoft Agent Framework.
 - [Microsoft Agent Framework Playlist](https://www.youtube.com/playlist?list=PLhGl0l5La4sYXjYOBv7h9l7x6qNuW34Cx) - YouTube playlist collection of videos and tutorials.
 - [End-to-End Example (Part 2: Deployment Options)](https://www.youtube.com/watch?v=nVYCU1euYl0) - Demonstration of deploying an AI-powered backend using different deployment strategies by Rasmus Wulff Jensen.
 
@@ -62,8 +62,8 @@ dotnet add package Microsoft.Agents.AI
 - [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) - Azure AI and machine learning blog announcement.
 - [Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/) - Azure AI Foundry blog announcement.
 - [Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/) - .NET blog announcement.
-- [Migrate Your Semantic Kernel and AutoGen Projects to Microsoft Agent Framework Release Candidate](https://devblogs.microsoft.com/semantic-kernel/migrate-your-semantic-kernel-and-autogen-projects-to-microsoft-agent-framework-release-candidate/) - Migration guide for transitioning projects to the release candidate.
-- [Build AI Agents with GitHub Copilot SDK and Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-github-copilot-sdk-and-microsoft-agent-framework/) - Guide for building AI agents with GitHub Copilot SDK integration.
+- [Migrate your Semantic Kernel and AutoGen projects to Microsoft Agent Framework Release Candidate](https://devblogs.microsoft.com/semantic-kernel/migrate-your-semantic-kernel-and-autogen-projects-to-microsoft-agent-framework-release-candidate/) - Migration guide for transitioning projects to the release candidate.
+- [Build AI agents with GitHub Copilot SDK and Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-github-copilot-sdk-and-microsoft-agent-framework/) - Guide for building AI agents with GitHub Copilot SDK integration.
 - [Give Your Agents Domain Expertise with Agent Skills in Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/give-your-agents-domain-expertise-with-agent-skills-in-microsoft-agent-framework/) - Introducing Agent Skills for packaging domain expertise as reusable, portable skill modules.
 - [Agent Harness in Agent Framework](https://devblogs.microsoft.com/agent-framework/agent-harness-in-agent-framework/) - Overview of the Agent Harness feature in Microsoft Agent Framework.
 - [What's New in Agent Skills: Code Skills, Script Execution, and Approval for Python](https://devblogs.microsoft.com/agent-framework/whats-new-in-agent-skills-code-skills-script-execution-and-approval-for-python/) - New Agent Skills capabilities including code skills, script execution, and approval workflows for Python.
@@ -78,7 +78,7 @@ dotnet add package Microsoft.Agents.AI
 - [Microsoft Agent Framework: Conversations and Threads](https://jamiemaguire.net/index.php/2025/11/06/microsoft-agent-framework-conversations-and-threads/) - Article by Jamie Maguire.
 - [Microsoft Agent Framework: Extending Agent Intelligence Using Function Tools](https://jamiemaguire.net/index.php/2025/11/15/microsoft-agent-framework-extending-agent-intelligence-using-function-tools/) - Article by Jamie Maguire.
 - [Microsoft Agent Framework: Using Agents as Function Tools](https://jamiemaguire.net/index.php/2025/11/22/microsoft-agent-framework-using-agents-as-function-tools/) - Article by Jamie Maguire.
-- [Microsoft Agent Framework Is Now AG UI Compatible](https://www.copilotkit.ai/blog/microsoft-agent-framework-is-now-ag-ui-compatible) - Blog post about AG UI compatibility with Microsoft Agent Framework.
+- [Microsoft Agent Framework is now AG UI compatible](https://www.copilotkit.ai/blog/microsoft-agent-framework-is-now-ag-ui-compatible) - Blog post about AG UI compatibility with Microsoft Agent Framework.
 - [My Take: Why Microsoft Agent Framework Matters](https://www.linkedin.com/pulse/my-take-why-microsoft-agent-framework-matters-edgar-mcochieng--7kh6f/) - Article by Edgar Mcochieng.
 - [Give Your Agents New Capabilities and Expertise Using Skills with Microsoft Agent Framework](https://arafattehsin.com/blog/give-your-agents-new-capabilities-skills-microsoft-agent-framework/) - Practical guide on implementing Agent Skills by Arafat Tehsin.
 - [Microsoft Agent Framework - Agent Skills](https://ravichaganti.com/blog/microsoft-agent-framework-agent-skills/) - Overview and walkthrough of Agent Skills by Ravikanth Chaganti.
@@ -94,7 +94,7 @@ dotnet add package Microsoft.Agents.AI
 - [Taking Multi-Model AI Orchestration Further: Azure AI Foundry Persistent Agents in .NET 9](https://elbruno.com/2025/10/16/%f0%9f%a7%a0-taking-multi-model-ai-orchestration-further-azure-ai-foundry-persistent-agents-in-net-9/) - Advanced tutorial on implementing persistent agents with Azure AI Foundry and Microsoft Agent Framework in .NET 9.
 - [Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-framework/4463159) - Step-by-step guide for building and deploying long-running AI agents on Azure App Service.
 - [Part 2: Build Long-Running AI Agents on Azure App Service with Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/part-2-build-long-running-ai-agents-on-azure-app-service-with-microsoft-agent-fr/4465825) - Continuation of the practical guide for deploying long-running AI agents on Azure App Service.
-- [Multi-Agent Workflow with Human Approval Using Agent Framework](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/multi-agent-workflow-with-human-approval-using-agent-framework/4465927) - Tutorial on implementing multi-agent workflows with human-in-the-loop approval patterns.
+- [Multi-agent Workflow with Human Approval using Agent Framework](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/multi-agent-workflow-with-human-approval-using-agent-framework/4465927) - Tutorial on implementing multi-agent workflows with human-in-the-loop approval patterns.
 - [Bulletproof Agents with the Durable Task Extension for Microsoft Agent Framework](https://techcommunity.microsoft.com/blog/appsonazureblog/bulletproof-agents-with-the-durable-task-extension-for-microsoft-agent-framework/4467122) - Tutorial on building bulletproof agents using the Durable Task Extension.
 
 ## Examples & Samples
