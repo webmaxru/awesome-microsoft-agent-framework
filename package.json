@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "^2.2.3"
+  }
+}
