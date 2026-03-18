@@ -22,17 +22,9 @@
 
 ### Installation
 
-Python:
-
-```bash
-pip install agent-framework --pre
-```
-
-C#/.NET:
-
-```bash
-dotnet add package Microsoft.Agents.AI
-```
+- [Get Started with Agent Framework](https://learn.microsoft.com/en-us/agent-framework/get-started/) - Official installation and setup guide for Python and .NET.
+- [Python Package (PyPI)](https://pypi.org/project/agent-framework/) - Python package listing with installation instructions.
+- [.NET Package (NuGet)](https://www.nuget.org/packages/Microsoft.Agents.AI) - .NET package listing with installation instructions.
 
 ### Quick Start Resources
 
