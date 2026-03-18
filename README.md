@@ -53,17 +53,6 @@
 
 ## Blog Posts & Articles
 
-### Official Microsoft Blogs
-
-- [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) - Azure AI and machine learning blog announcement.
-- [Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/) - Azure AI Foundry blog announcement.
-- [Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/) - .NET blog announcement.
-- [Migrate your Semantic Kernel and AutoGen projects to Microsoft Agent Framework Release Candidate](https://devblogs.microsoft.com/semantic-kernel/migrate-your-semantic-kernel-and-autogen-projects-to-microsoft-agent-framework-release-candidate/) - Migration guide for transitioning projects to the release candidate.
-- [Build AI agents with GitHub Copilot SDK and Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-github-copilot-sdk-and-microsoft-agent-framework/) - Guide for building AI agents with GitHub Copilot SDK integration.
-- [Give Your Agents Domain Expertise with Agent Skills in Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/give-your-agents-domain-expertise-with-agent-skills-in-microsoft-agent-framework/) - Introducing Agent Skills for packaging domain expertise as reusable, portable skill modules.
-- [Agent Harness in Agent Framework](https://devblogs.microsoft.com/agent-framework/agent-harness-in-agent-framework/) - Overview of the Agent Harness feature in Microsoft Agent Framework.
-- [What's New in Agent Skills: Code Skills, Script Execution, and Approval for Python](https://devblogs.microsoft.com/agent-framework/whats-new-in-agent-skills-code-skills-script-execution-and-approval-for-python/) - New Agent Skills capabilities including code skills, script execution, and approval workflows for Python.
-
 ### Community Blogs
 
 - [Microsoft Agent Framework: Why This Matters for the Future of Enterprise AI](https://www.linkedin.com/pulse/microsoft-agent-framework-why-matters-future-ai-muhammad-zubair-25j3f/) - Article by Muhammad Zubair.
@@ -78,6 +67,17 @@
 - [My Take: Why Microsoft Agent Framework Matters](https://www.linkedin.com/pulse/my-take-why-microsoft-agent-framework-matters-edgar-mcochieng--7kh6f/) - Article by Edgar Mcochieng.
 - [Give Your Agents New Capabilities and Expertise Using Skills with Microsoft Agent Framework](https://arafattehsin.com/blog/give-your-agents-new-capabilities-skills-microsoft-agent-framework/) - Practical guide on implementing Agent Skills by Arafat Tehsin.
 - [Microsoft Agent Framework - Agent Skills](https://ravichaganti.com/blog/microsoft-agent-framework-agent-skills/) - Overview and walkthrough of Agent Skills by Ravikanth Chaganti.
+
+### Official Microsoft Blogs
+
+- [Introducing Microsoft Agent Framework](https://azure.microsoft.com/en-us/blog/introducing-microsoft-agent-framework/) - Azure AI and machine learning blog announcement.
+- [Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://devblogs.microsoft.com/foundry/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/) - Azure AI Foundry blog announcement.
+- [Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/) - .NET blog announcement.
+- [Migrate your Semantic Kernel and AutoGen projects to Microsoft Agent Framework Release Candidate](https://devblogs.microsoft.com/semantic-kernel/migrate-your-semantic-kernel-and-autogen-projects-to-microsoft-agent-framework-release-candidate/) - Migration guide for transitioning projects to the release candidate.
+- [Build AI agents with GitHub Copilot SDK and Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/build-ai-agents-with-github-copilot-sdk-and-microsoft-agent-framework/) - Guide for building AI agents with GitHub Copilot SDK integration.
+- [Give Your Agents Domain Expertise with Agent Skills in Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/give-your-agents-domain-expertise-with-agent-skills-in-microsoft-agent-framework/) - Introducing Agent Skills for packaging domain expertise as reusable, portable skill modules.
+- [Agent Harness in Agent Framework](https://devblogs.microsoft.com/agent-framework/agent-harness-in-agent-framework/) - Overview of the Agent Harness feature in Microsoft Agent Framework.
+- [What's New in Agent Skills: Code Skills, Script Execution, and Approval for Python](https://devblogs.microsoft.com/agent-framework/whats-new-in-agent-skills-code-skills-script-execution-and-approval-for-python/) - New Agent Skills capabilities including code skills, script execution, and approval workflows for Python.
 
 ## Tutorials
 
