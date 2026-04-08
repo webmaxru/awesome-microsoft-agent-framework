@@ -78,6 +78,7 @@
 - [Give Your Agents Domain Expertise with Agent Skills in Microsoft Agent Framework](https://devblogs.microsoft.com/semantic-kernel/give-your-agents-domain-expertise-with-agent-skills-in-microsoft-agent-framework/) - Introducing Agent Skills for packaging domain expertise as reusable, portable skill modules.
 - [Agent Harness in Agent Framework](https://devblogs.microsoft.com/agent-framework/agent-harness-in-agent-framework/) - Overview of the Agent Harness feature in Microsoft Agent Framework.
 - [What's New in Agent Skills: Code Skills, Script Execution, and Approval for Python](https://devblogs.microsoft.com/agent-framework/whats-new-in-agent-skills-code-skills-script-execution-and-approval-for-python/) - New Agent Skills capabilities including code skills, script execution, and approval workflows for Python.
+- [AG-UI Multi-Agent Workflow Demo](https://devblogs.microsoft.com/agent-framework/ag-ui-multi-agent-workflow-demo/) - Building a customer support multi-agent workflow with MAF handoffs and AG-UI protocol for real-time UI streaming.
 
 ## Tutorials
 
