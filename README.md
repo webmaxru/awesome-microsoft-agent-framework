@@ -79,6 +79,7 @@
 - [Agent Harness in Agent Framework](https://devblogs.microsoft.com/agent-framework/agent-harness-in-agent-framework/) - Overview of the Agent Harness feature in Microsoft Agent Framework.
 - [What's New in Agent Skills: Code Skills, Script Execution, and Approval for Python](https://devblogs.microsoft.com/agent-framework/whats-new-in-agent-skills-code-skills-script-execution-and-approval-for-python/) - New Agent Skills capabilities including code skills, script execution, and approval workflows for Python.
 - [AG-UI Multi-Agent Workflow Demo](https://devblogs.microsoft.com/agent-framework/ag-ui-multi-agent-workflow-demo/) - Building a customer support multi-agent workflow with MAF handoffs and AG-UI protocol for real-time UI streaming.
+- [CodeAct with Hyperlight](https://devblogs.microsoft.com/agent-framework/codeact-with-hyperlight/) - Introducing CodeAct support in Agent Framework via the `agent-framework-hyperlight` package, collapsing multi-step tool-call loops into single sandboxed Python executions for lower latency and token usage.
 - [Build a Real-World Example with Microsoft Agent Framework, Microsoft Foundry, MCP, and Aspire](https://developer.microsoft.com/blog/build-a-real-world-example-with-microsoft-agent-framework-microsoft-foundry-mcp-and-aspire) - Walkthrough of an open-source Interview Coach sample showing how to build a production-style multi-agent application using Microsoft Agent Framework, Microsoft Foundry, MCP servers, and Aspire for cloud-native orchestration.
 
 ## Tutorials
