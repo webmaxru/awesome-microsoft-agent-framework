@@ -44,6 +44,7 @@
 ## Video Resources
 
 - [Microsoft Agent Framework Introduction (30 min)](https://aka.ms/AgentFramework/OpenAtMicrosoft) - Full framework introduction.
+- [Microsoft Agent Framework WorkFlows Explained (30 min)](https://www.youtube.com/watch?v=KQ09sMHeFQY) - A detailed walkthrough of the workflow system in Microsoft Agent Framework, covering core concepts and usage patterns.
 - [AI Show Episodes](https://aka.ms/AgentFramework/AIShow) - Microsoft AI Show coverage.
 - [Deep Dive into Microsoft Agent Framework for AutoGen Users](https://www.youtube.com/watch?v=JlzteydCK_Q) - Comprehensive walkthrough for developers migrating from AutoGen.
 - [DevUI in Action (1 min)](https://www.youtube.com/watch?v=mOAaGY4WPvc) - Interactive developer UI demo.
