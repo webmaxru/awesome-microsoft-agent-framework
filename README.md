@@ -142,6 +142,7 @@
 - [Model Context Protocol (MCP)](https://learn.microsoft.com/en-us/agent-framework/user-guide/model-context-protocol/?pivots=programming-language-csharp) - Connect to external tools and data servers.
 - [Agent as MCP Server](https://github.com/chanirban/agent-as-mcp-server-MAF) - Example of exposing an agent as an MCP server using Microsoft Agent Framework with STDIO transport.
 - [Agent-to-Agent (A2A)](https://learn.microsoft.com/en-us/agent-framework/user-guide/agents/agent-types/a2a-agent?pivots=programming-language-csharp) - Cross-runtime agent collaboration.
+- [Nylas CLI](https://github.com/nylas/cli) - MCP server giving agents email, calendar, and contacts access to Outlook, Exchange, Microsoft 365, plus Gmail, Yahoo, iCloud, and IMAP through one auth flow. 16 tools, install with `nylas mcp install`.
 
 ## Related Technologies
 
