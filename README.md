@@ -86,6 +86,7 @@
 - [A Tour of Handoff Orchestration Pattern](https://devblogs.microsoft.com/agent-framework/a-tour-of-handoff-orchestration-pattern/) - Deep dive into the handoff orchestration pattern for coordinating multi-agent workflows in Microsoft Agent Framework.
 - [From Local to Production: Deploy your Microsoft Agent Framework Agent with Foundry-Hosted Agents](https://devblogs.microsoft.com/agent-framework/from-local-to-production-deploy-your-microsoft-agent-framework-agent-with-foundry-hosted-agents/) - Guide to moving Microsoft Agent Framework agents from local development to production using Foundry-hosted agents.
 - [Build a Real-World Example with Microsoft Agent Framework, Microsoft Foundry, MCP, and Aspire](https://developer.microsoft.com/blog/build-a-real-world-example-with-microsoft-agent-framework-microsoft-foundry-mcp-and-aspire) - Walkthrough of an open-source Interview Coach sample showing how to build a production-style multi-agent application using Microsoft Agent Framework, Microsoft Foundry, MCP servers, and Aspire for cloud-native orchestration.
+- [Governance at the Speed of Agents: Microsoft Agent Framework and Agent Governance Toolkit, Better Together](https://devblogs.microsoft.com/agent-framework/governance-at-the-speed-of-agents-microsoft-agent-framework-and-agent-governance-toolkit-better-together/) - How Agent Governance Toolkit pairs with Microsoft Agent Framework to enforce policy at runtime, govern agent actions, and provide end-to-end auditability for production AI agents.
 
 ## Tutorials
 
