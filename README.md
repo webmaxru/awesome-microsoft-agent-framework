@@ -91,6 +91,7 @@
 - [FIDES: Flow Integrity Deterministic Enforcement System in Agent Framework](https://devblogs.microsoft.com/agent-framework/fides/) - Introducing FIDES, an information-flow control middleware that labels content with integrity and confidentiality labels to deterministically enforce policies and protect against prompt injection attacks.
 - [Agent Loops, Workflows, and Harnesses: The Layered SDK Powering Microsoft Agent Framework](https://commandline.microsoft.com/agent-framework-layered-sdk-loops-workflows-harnesses/) - Explains how Microsoft Agent Framework's layered SDK is organized around agent loops, workflows, and harnesses to move from a prompt to a production-ready agent.
 - [The Microsoft Agent Framework Harness is now released](https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released/) - Announcing the stable, batteries-included agent harness for Python and .NET that wraps a chat client with a complete agentic pipeline including function invocation, planning, memory, compaction, tool approvals, web search, and telemetry.
+- [Build Production-Ready Agents with the GitHub Copilot Harness and Agent Framework](https://devblogs.microsoft.com/agent-framework/build-production-ready-agents-with-the-github-copilot-harness-and-agent-framework/) - Announcing the stable GitHub Copilot Agent for .NET and Python, using Copilot's coding harness as the execution engine while keeping Agent Framework's tooling, streaming, middleware, observability, and human-in-the-loop approvals.
 
 ## Tutorials
 
