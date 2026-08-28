@@ -149,6 +149,7 @@
 - [Agent as MCP Server](https://github.com/chanirban/agent-as-mcp-server-MAF) - Example of exposing an agent as an MCP server using Microsoft Agent Framework with STDIO transport.
 - [Agent-to-Agent (A2A)](https://learn.microsoft.com/en-us/agent-framework/user-guide/agents/agent-types/a2a-agent?pivots=programming-language-csharp) - Cross-runtime agent collaboration.
 - [Nylas CLI](https://github.com/nylas/cli) - MCP server giving agents email, calendar, and contacts access to Outlook, Exchange, Microsoft 365, plus Gmail, Yahoo, iCloud, and IMAP through one auth flow. 16 tools, install with `nylas mcp install`.
+- [Zero](https://zero.xyz) - An MCP connector that gives your AI access to thousands of external tools, APIs and services to discover and pay for per use, with no configuration.
 
 ## Related Technologies
 
