@@ -138,6 +138,7 @@
 
 - [Agent Framework Toolkit](https://github.com/rwjdk/AgentFrameworkToolkit) - An opinionated C# toolkit that simplifies development with Microsoft Agent Framework, providing convenient factories and options for creating agents with multiple AI providers.
 - [DevUI](https://github.com/microsoft/agent-framework/tree/main/python/packages/devui) - Interactive developer UI for agent development, testing, and debugging workflows.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [VS Code AI Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) - Streamlined experience for building with Microsoft Agent Framework.
 - [AF Labs](https://github.com/microsoft/agent-framework/tree/main/python/packages/lab) - Experimental packages for cutting-edge features including benchmarking and reinforcement learning.
 - [Agent Skills Repository](https://github.com/microsoft/skills) - Official repository of ready-made skills, MCP servers, custom agents, and reusable agent components.
