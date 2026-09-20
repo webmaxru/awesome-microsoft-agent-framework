@@ -27,6 +27,7 @@
 - [.NET Package (NuGet)](https://www.nuget.org/packages/Microsoft.Agents.AI) - .NET package listing with installation instructions.
 
 ### Quick Start Resources
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
 
 - [Microsoft Agent Framework GitHub Repository](https://github.com/microsoft/agent-framework) - Official source code and examples.
 - [Quick Start Guide](https://learn.microsoft.com/en-us/agent-framework/tutorials/quick-start) - Get started with a simple agent.
