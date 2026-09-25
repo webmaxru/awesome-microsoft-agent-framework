@@ -141,6 +141,7 @@
 - [VS Code AI Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) - Streamlined experience for building with Microsoft Agent Framework.
 - [AF Labs](https://github.com/microsoft/agent-framework/tree/main/python/packages/lab) - Experimental packages for cutting-edge features including benchmarking and reinforcement learning.
 - [Agent Skills Repository](https://github.com/microsoft/skills) - Official repository of ready-made skills, MCP servers, custom agents, and reusable agent components.
+- [SemanticPolicy](https://github.com/semanticpolicy/semantic-policy) - Open-source .NET library (alpha) with Agent Framework middleware that checks input before the model, a tool call before it runs and its result after it returns, using rules a decision model answers and thresholds measured on labelled examples.
 
 ### Integration Options
 
