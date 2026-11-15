@@ -141,6 +141,7 @@
 - [VS Code AI Toolkit](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio) - Streamlined experience for building with Microsoft Agent Framework.
 - [AF Labs](https://github.com/microsoft/agent-framework/tree/main/python/packages/lab) - Experimental packages for cutting-edge features including benchmarking and reinforcement learning.
 - [Agent Skills Repository](https://github.com/microsoft/skills) - Official repository of ready-made skills, MCP servers, custom agents, and reusable agent components.
+- [fuseraft](https://github.com/fuseraft/fuseraft-cli) - Model-agnostic coding agent for the terminal, built on Microsoft Agent Framework, that can also run multi-agent teams defined in YAML.
 
 ### Integration Options
 
