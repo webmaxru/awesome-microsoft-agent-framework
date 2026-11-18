@@ -144,6 +144,7 @@
 
 ### Integration Options
 
+- [Loom context provider](https://github.com/ClickHouse/loom/blob/5135c7f13444fa01fce58169f2631bf26f28cec8/sdk/python/loom/integrations/agent_framework.py) - Python context provider that recalls memories and saves turns through a self-hosted Loom deployment.
 - [Agent Framework MS](https://github.com/aiwithsudheer/agent-framework-ms) - Project demonstrating how to extend the agent-framework by creating a custom chat client for Google's Gemini large language models.
 - [Model Context Protocol (MCP)](https://learn.microsoft.com/en-us/agent-framework/user-guide/model-context-protocol/?pivots=programming-language-csharp) - Connect to external tools and data servers.
 - [Agent as MCP Server](https://github.com/chanirban/agent-as-mcp-server-MAF) - Example of exposing an agent as an MCP server using Microsoft Agent Framework with STDIO transport.
